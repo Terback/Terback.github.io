@@ -10,6 +10,7 @@
   Trusted by 250,000+ researchers at <strong>MIT, Stanford, and Google</strong>.
 </p>
 
+
 <p align="center">
   <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Launch Free (60s)</b></a>
   &nbsp;•&nbsp;
